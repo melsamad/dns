@@ -653,7 +653,7 @@ midnight-status: #DragonSenseiGuy U09H4M0523Z : https://github.com/dragonSenseiG
 mindmaze: # ssamadmiryam@gmail.com
   ttl: 600
   type: CNAME
-  value: mindmaze-q8m0phy01-ssamadmiryam-9339s-projects.vercel.app.
+  value: mindmaze-pied.vercel.app.
 
 mindson: # by rajan
   ttl: 600
